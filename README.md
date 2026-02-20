@@ -8,8 +8,8 @@ Shenyue Jia
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
-- [Multiple map frames in one map layout](https://colab.research.google.com/drive/1Llii5S3Gi3hsEKSz4jKUoEdec4d-h2sa?usp=drive_link)
+- [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541c-sp2026/blob/main/week_01_assignment_example.ipynb)
+- [Multiple map frames in one map layout](https://github.com/jiashenyue/geo441-541c-sp2026/blob/main/geo441_541c_sp26_week_02_assignment_template.ipynb)
 
 ## Map Coordinate Basics
 
