@@ -15,6 +15,6 @@ Shenyue Jia
 
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
-## **Web Mapping**
+## Web Mapping
 
-- This [StoryMap collection](https://storymaps.arcgis.com/collections/7c2e997b0e3846869b8723d077a3fbda) contains all maps I made using ArcGIS Online
+- This [comparison map](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=f7ba5cb5656c404e99297e77dc52668b) showcases the difference in land surface temperature in Palm Springs, CA
