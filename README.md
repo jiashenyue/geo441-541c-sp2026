@@ -15,3 +15,6 @@ Shenyue Jia
 
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
+## **Web Mapping**
+
+- This [StoryMap collection](https://arcg.is/1aTuXj3) contains all maps I made using ArcGIS Online
