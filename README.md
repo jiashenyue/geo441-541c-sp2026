@@ -17,4 +17,4 @@ Shenyue Jia
 
 ## **Web Mapping**
 
-- This [StoryMap collection](https://arcg.is/1aTuXj3) contains all maps I made using ArcGIS Online
+- This [StoryMap collection](https://storymaps.arcgis.com/collections/7c2e997b0e3846869b8723d077a3fbda) contains all maps I made using ArcGIS Online
